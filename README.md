@@ -40,7 +40,7 @@ The dataset used in this project was obtained from a **YouTube tutorial**, where
 
 ## 🖼Screenshot
 
-![Ecommerce Dashboard](."C:\Users\mansi\OneDrive\Desktop\Pictures\Snapshot of the Dashboard.png")
+![Ecommerce Dashboard](https://github.com/Mansi-2003/Madhav-Ecommerce-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
