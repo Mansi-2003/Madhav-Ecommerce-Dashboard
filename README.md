@@ -38,7 +38,7 @@ The dataset used in this project was obtained from a **YouTube tutorial**, where
 
 ---
 
-## 🖼Screenshot
+## Screenshot
 
 ![Ecommerce Dashboard](https://github.com/Mansi-2003/Madhav-Ecommerce-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
