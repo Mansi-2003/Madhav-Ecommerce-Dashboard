@@ -40,7 +40,7 @@ The dataset used in this project was obtained from a **YouTube tutorial**, where
 
 ## 🖼Screenshot
 
-![Ecommerce Dashboard](./f1187e10-eb36-4ad9-af39-f8eae6f111e2.png)
+![Ecommerce Dashboard](."C:\Users\mansi\OneDrive\Desktop\Pictures\Snapshot of the Dashboard.png")
 
 ---
 
